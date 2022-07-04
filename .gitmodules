@@ -1,3 +1,6 @@
 [submodule "Socket-Programming-Auction"]
 	path = Socket-Programming-Auction
 	url = https://github.com/daneshvar-amrollahi/Socket-Programming-Auction
+[submodule "Load-Balancer"]
+	path = Load-Balancer
+	url = https://github.com/daneshvar-amrollahi/Load-Balancer
