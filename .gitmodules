@@ -4,3 +4,6 @@
 [submodule "Load-Balancer"]
 	path = Load-Balancer
 	url = https://github.com/daneshvar-amrollahi/Load-Balancer
+[submodule "Parallel-Price-Predictor"]
+	path = Parallel-Price-Predictor
+	url = https://github.com/daneshvar-amrollahi/Parallel-Price-Predictor
